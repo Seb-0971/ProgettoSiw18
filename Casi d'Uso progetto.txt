@@ -1,0 +1,81 @@
+Casi d'uso:
+
+.UC 1: Registrazione allievo - Attore Primario : il responsabile
+
+1. Un allievo si presenta al centro perchè vuole partecipare alle attività del giorno.
+
+2. Il responsabile inizia una nuova registrazione e inserisce i dati dell'allievo.
+
+3. Se i dati dell'allievo sono già presenti nel sistema, il sistema mostra la scritta "Allievo già registrato".
+
+4. Se i dati dell'allievo non sono presenti nel sistema il responsabile completa la registrazione.
+
+
+.UC2: Inserimento nuova attività - Attore Primario: il responsabile
+
+1. Il responsabile di un centro X usa il sistema per inserire una nuova attività.
+
+2. Il responsabile seleziona una data ed un orario ed inserisce il nome della nuova attività.
+
+
+.UC 3: Inserimento nuovo Centro - Attore Primario : il direttore
+
+1. Il direttore dell'azienda usa il sistema  per l'inserimento di un nuovo centro.
+
+2. Il sistema mostra la form per l'inserimento del nuovo centro.
+
+3. Il direttore compila la form ed invia i dati al sistema.
+
+4. Il sistema mostra la lista di tutti i centri registrati.
+
+
+.UC4: Cerca allievo - Attore Primario : il responsabile 
+
+1. Il responsabile di un centro X usa il sistema per cercare un allievo.
+
+2. Il sistema mostra una form per l'inserimento dell'email dell'allievo.
+
+3. Il responsabile inserisce l'email dell'allievo.
+
+4. Il sistema verifica la presenza dell'allievo nel sistema.
+
+5. Se l'allievo è presente nel sistema, il sistema mostra i dati dell'allievo.
+
+6. Se l'allievo non è presente nel sistema , il sistema mostra la scritta "Allievo non esiste".
+
+
+.UC5: Cerca attività - Attore Primario : il responsabile 
+
+1. Il responsabile di un centro X usa il sistema per cercare un'attività.
+
+2. Il sistema mostra una form per l'inserimento del nome dell'attività.
+
+3. Il responsabile inserisce il nome dell'attività.
+
+4. Il sistema verifica la presenza dell'attività nel sistema.
+
+5. Se l'attività è presente nel sistema, il sistema mostra i dati dell'allievo.
+
+6. Se l'attività non è presente nel sistema , il sistema mostra la scritta "Attività non esiste".
+
+
+.UC6: Gestione attività - Attore Primario : il responsabile 
+
+1.  Il responsabile di un centro X usa il sistema per gestire le attività.
+
+2.  Il sistema mostra una pagina per la gestione delle attività con tutti i servizi offerti per la gestione delle attivit�.
+
+3.  Il responsabile seleziona uno dei servizi offerti dal sistema.
+
+
+.UC7: Gestione allievo - Attore Primario : il responsabile 
+
+1.  Il responsabile di un centro X usa il sistema per gestire gli allievi.
+
+2.  Il sistema mostra una pagina per la gestione degli allievi con tutti i servizi offerti per la gestione degli allievi.
+
+3.  Il responsabile seleziona uno dei servizi offerti dal sistema.
+
+
+
+
